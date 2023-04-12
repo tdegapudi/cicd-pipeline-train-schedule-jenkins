@@ -1,6 +1,6 @@
 plugins {
   //inlude the nodeJS plugin to execute nodejs and npm tasks
- plugins {
+
   id "com.github.node-gradle.node" version "1.5.3"
 }
 
