@@ -1,7 +1,7 @@
 plugins {
   //inlude the nodeJS plugin to execute nodejs and npm tasks
 
-    id("com.github.node-gradle.node") version "3.5.1"
+      id("de.solugo.gradle.nodejs") version "0.6.2"
 }
 
 
